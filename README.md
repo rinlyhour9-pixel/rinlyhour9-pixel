@@ -12,19 +12,19 @@
 
 <p align="center">
   <a href="https://portfolio-rinlyhour.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=6D5EFC&center=true&vCenter=true&width=520&lines=UI%2FUX+Designer;Creating+clear%2C+useful+digital+experiences;Figma+%E2%80%A2+Prototyping+%E2%80%A2+Design+Systems;Designer+who+also+codes+%F0%9F%92%BB" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=6D5EFC&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;Creating+clear%2C+useful+digital+experiences;Figma+%E2%80%A2+Prototyping+%E2%80%A2+Design+Systems;Designer+who+also+codes+%F0%9F%92%BB" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:rinlyhour9@gmail.com"><img src="https://img.shields.io/badge/Email-rinlyhour9%40gmail.com-ed5d37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=17221e"></a>
-  <a href="https://portfolio-rinlyhour.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-Visit-6d5efc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=17221e"></a>
-  <a href="https://t.me/LyyHourRinn"><img src="https://img.shields.io/badge/Telegram-@LyyHourRinn-3aa0ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=17221e"></a>
-  <a href="https://portfolio-rinlyhour.vercel.app/file/RINLYHOUR_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-Download-4f8b45?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=17221e"></a>
+  <a href="mailto:rinlyhour9@gmail.com"><img src="./assets/badges/email.svg" alt="Email"></a>
+  <a href="https://portfolio-rinlyhour.vercel.app/"><img src="./assets/badges/my-portfolio.svg" alt="My Portfolio"></a>
+  <a href="https://t.me/LyyHourRinn"><img src="./assets/badges/telegram.svg" alt="Telegram"></a>
+  <a href="https://portfolio-rinlyhour.vercel.app/file/RINLYHOUR_RESUME.pdf"><img src="./assets/badges/resume.svg" alt="Resume"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rinlyhour9-pixel&label=Profile%20views&color=6d5efc&style=flat-square" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=rinlyhour9-pixel&label=Profile%20views&color=6d5efc&style=flat-square" alt="Profile views">
 </p>
 
 ---
@@ -40,32 +40,32 @@ I'm a **UI/UX designer** based in **Phnom Penh, Cambodia** who creates clear, us
 ## 🎨 Design Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/FigJam-A259FF?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Video_Editing-6d5efc?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="./assets/badges/figma.svg" alt="Figma">
+  <img src="./assets/badges/figjam.svg" alt="FigJam">
+  <img src="./assets/badges/adobe-xd.svg" alt="Adobe XD">
+  <img src="./assets/badges/photoshop.svg" alt="Photoshop">
+  <img src="./assets/badges/blender.svg" alt="Blender">
+  <img src="./assets/badges/video-editing.svg" alt="Video Editing">
 </p>
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="./assets/badges/html5.svg" alt="HTML5">
+  <img src="./assets/badges/css3.svg" alt="CSS3">
+  <img src="./assets/badges/javascript.svg" alt="JavaScript">
+  <img src="./assets/badges/typescript.svg" alt="TypeScript">
+  <img src="./assets/badges/node-js.svg" alt="Node.js">
+  <img src="./assets/badges/react.svg" alt="React">
+  <img src="./assets/badges/php.svg" alt="PHP">
+  <img src="./assets/badges/laravel.svg" alt="Laravel">
+  <img src="./assets/badges/java.svg" alt="Java">
+  <img src="./assets/badges/spring-boot.svg" alt="Spring Boot">
+  <img src="./assets/badges/python.svg" alt="Python">
+  <img src="./assets/badges/flutter.svg" alt="Flutter">
+  <img src="./assets/badges/postgresql.svg" alt="PostgreSQL">
+  <img src="./assets/badges/docker.svg" alt="Docker">
+  <img src="./assets/badges/git.svg" alt="Git">
 </p>
 
 ## 📊 GitHub Stats
