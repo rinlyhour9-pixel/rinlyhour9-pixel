@@ -34,7 +34,7 @@
 I'm a **UI/UX designer** based in **Phnom Penh, Cambodia** who creates clear, useful digital experiences — from user flows and wireframes to polished prototypes and design systems. I also build what I design, so my handoffs come from someone who knows how the code works.
 
 - 🎨 Focus: **Wireframing · Prototyping · User Flow · Design Systems**
-- 💻 Also build with **React, Laravel, Flutter, Spring Boot**
+- 💻 Also build with **React, Laravel, Flutter, TypeScript, Node.js**
 - 📫 Reach me: **rinlyhour9@gmail.com**
 
 ## 🎨 Design Tools
