@@ -72,7 +72,7 @@ I'm a **UI/UX designer** based in **Phnom Penh, Cambodia** who creates clear, us
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/improving-dark.svg">
-  <img src="./assets/improving-light.svg" alt="Currently learning: Blender, Java, Python, Docker, Next.js, Tailwind CSS, Framer, Accessibility (WCAG)" width="100%">
+  <img src="./assets/improving-light.svg" alt="Currently learning: Blender, Java, Spring Boot, REST API, Python, Docker, Next.js, Tailwind CSS, Framer, Accessibility (WCAG)" width="100%">
 </picture>
 
 ## 📊 GitHub Stats
