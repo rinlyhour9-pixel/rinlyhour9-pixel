@@ -68,6 +68,30 @@ I'm a **UI/UX designer** based in **Phnom Penh, Cambodia** who creates clear, us
   <img src="./assets/badges/git.svg" alt="Git">
 </p>
 
+## 🌱 What I'm Improving
+
+<p align="center">
+  <img src="./assets/badges/blender.svg" alt="Blender">
+  <img src="./assets/badges/java.svg" alt="Java">
+  <img src="./assets/badges/python.svg" alt="Python">
+  <img src="./assets/badges/docker.svg" alt="Docker">
+  <img src="./assets/badges/nextjs.svg" alt="Next.js">
+  <img src="./assets/badges/tailwind-css.svg" alt="Tailwind CSS">
+  <img src="./assets/badges/framer.svg" alt="Framer">
+  <img src="./assets/badges/accessibility.svg" alt="Accessibility (WCAG)">
+</p>
+
+| Skill | Goal |
+| :-- | :-- |
+| 🧊 **Blender** | 3D assets and mockups for UI presentations |
+| ☕ **Java** | Stronger backend work with Spring Boot |
+| 🐍 **Python** | Automation, scripting and data handling |
+| 🐳 **Docker** | Containerise and deploy my own projects |
+| ▲ **Next.js** | Production React apps with routing and SSR |
+| 🌊 **Tailwind CSS** | Turn Figma designs into code faster |
+| 🎞️ **Framer** | High-fidelity, interactive prototypes |
+| ♿ **Accessibility (WCAG)** | Designs that work for everyone |
+
 ## 📊 GitHub Stats
 
 <p align="center">
