@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="11" cy="11" r="1.5" fill="#ffffff1a"/>
+    </pattern>
+    <linearGradient id="spread" spreadMethod="reflect" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7b5cff"/>
+      <stop offset="50%" stop-color="#3aa0ff"/>
+      <stop offset="100%" stop-color="#7b5cff"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .t{font-family:Poppins,'Segoe UI',Arial,sans-serif}
+    .float{animation:f 4s ease-in-out infinite}
+    @keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+  </style>
+  <rect width="1000" height="230" rx="18" fill="#141d18"/>
+  <rect width="1000" height="230" rx="18" fill="url(#dots)"/>
+  <path d="M0 150 C 200 110, 350 200, 520 160 S 820 110, 1000 150 L1000 212 Q1000 230 982 230 L18 230 Q0 230 0 212 Z" fill="url(#spread)" opacity="0.92">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0 150 C 200 110, 350 200, 520 160 S 820 110, 1000 150 L1000 212 Q1000 230 982 230 L18 230 Q0 230 0 212 Z;
+              M0 160 C 220 190, 360 120, 520 150 S 800 190, 1000 140 L1000 212 Q1000 230 982 230 L18 230 Q0 230 0 212 Z;
+              M0 150 C 200 110, 350 200, 520 160 S 820 110, 1000 150 L1000 212 Q1000 230 982 230 L18 230 Q0 230 0 212 Z"/>
+  </path>
+  <rect x="44" y="40" width="118" height="28" rx="14" fill="#6d5efc" opacity="0.12"/>
+  <circle cx="60" cy="54" r="4" fill="#d6f36b" stroke="#4f8b45" stroke-width="1"/>
+  <text x="72" y="59" class="t" font-size="13" font-weight="600" fill="#6d5efc" letter-spacing="1.5">UI/UX DESIGNER</text>
+  <text x="44" y="112" class="t" font-size="44" font-weight="800" fill="#eef1ea">Hi, I'm Rin LyHour <tspan class="float">👋</tspan></text>
+  <text x="46" y="140" class="t" font-size="16" fill="#94a099">Creating clear, useful digital experiences · Phnom Penh, Cambodia</text>
+  <g opacity="0.9">
+    <circle cx="905" cy="62" r="34" fill="none" stroke="#6d5efc" stroke-width="2" stroke-dasharray="6 6">
+      <animateTransform attributeName="transform" type="rotate" from="0 905 62" to="360 905 62" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="880" y="37" width="50" height="50" rx="12" fill="#6d5efc"/>
+    <text x="905" y="70" text-anchor="middle" class="t" font-size="20" font-weight="700" fill="#fff">RL</text>
+  </g>
+</svg>
