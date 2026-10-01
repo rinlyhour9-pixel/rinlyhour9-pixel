@@ -15,7 +15,7 @@
 <rect x="30" y="28" width="187" height="28" rx="14" fill="#6d5efc" opacity=".12"/>
 <circle cx="46" cy="42" r="4" fill="#d6f36b" stroke="#4f8b45" class="p"/>
 <text x="58" y="47" font-size="12.5" font-weight="600" fill="#6d5efc" letter-spacing="1.5">CURRENTLY LEARNING</text>
-<text x="30" y="82" font-size="13.5" fill="#94a099">Skills I'm levelling up next — as a designer who also builds what I design.</text>
+<text x="30" y="82" font-size="13.5" fill="#94a099">From designer to developer — the skills I'm building to ship what I design, end to end.</text>
 <rect x="810" y="38" width="160" height="4" rx="2" fill="url(#g)"/>
 <g class="c" style="animation-delay:0.00s">
  <rect x="30" y="108" width="460" height="92" rx="16" fill="#1c2a24" stroke="#28352d"/>

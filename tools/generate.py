@@ -183,7 +183,7 @@ def improving(t):
     rows = (len(IMPROVING) + 1) // 2
     h = top + rows * ch + (rows - 1) * 16 + 28
     o = [head(W, h, t), panel(h, t),
-         eyebrow("CURRENTLY LEARNING", "Skills I'm levelling up next — as a designer who also builds what I design.", t)]
+         eyebrow("CURRENTLY LEARNING", "From designer to developer — the skills I'm building to ship what I design, end to end.", t)]
     for i, (n, ab, col, goal) in enumerate(IMPROVING):
         x, y = 30 + (i % 2) * (cw + 20), top + (i // 2) * (ch + 16)
         fs = 14 if len(ab) > 2 else 18
