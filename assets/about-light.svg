@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+ <pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="11" cy="11" r="1.5" fill="#dcdfd5"/></pattern>
+ <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7b5cff"/><stop offset=".5" stop-color="#3aa0ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+</defs>
+<style>
+ text{font-family:Poppins,'Segoe UI',Arial,sans-serif}
+ .c{opacity:0;animation:in .6s ease-out forwards}
+ @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+ .p{animation:pl 1.6s ease-in-out infinite}
+ @keyframes pl{0%,100%{opacity:1}50%{opacity:.25}}
+</style>
+<rect width="1000" height="300" rx="18" fill="#f5f5f0"/>
+<rect width="1000" height="300" rx="18" fill="url(#d)"/>
+<rect x="30" y="28" width="109" height="28" rx="14" fill="#6d5efc" opacity=".12"/>
+<circle cx="46" cy="42" r="4" fill="#d6f36b" stroke="#4f8b45" class="p"/>
+<text x="58" y="47" font-size="12.5" font-weight="600" fill="#6d5efc" letter-spacing="1.5">ABOUT ME</text>
+<text x="30" y="82" font-size="13.5" fill="#68726d">A little about who I am and how I work.</text>
+<rect x="810" y="38" width="160" height="4" rx="2" fill="url(#g)"/>
+<g class="c"><text x="30" y="132" font-size="26" font-weight="800" fill="#17221e">Designing clear, useful digital experiences.</text>
+<text x="30" y="164" font-size="14.5" fill="#68726d">I'm a UI/UX designer who takes ideas from user flows and wireframes to polished</text>
+<text x="30" y="186" font-size="14.5" fill="#68726d">prototypes and design systems — and I build what I design, so handoffs just work.</text>
+</g>
+<g class="c" style="animation-delay:0.15s">
+ <rect x="30" y="210" width="143" height="64" rx="14" fill="#ffffff" stroke="#d8ddd4"/>
+ <rect x="30" y="226" width="4" height="32" rx="2" fill="#6d5efc"/>
+ <text x="48" y="236" font-size="10.5" font-weight="600" fill="#68726d" letter-spacing="1.2">SPECIALTY</text>
+ <text x="48" y="257" font-size="13.5" font-weight="700" fill="#17221e">UI/UX Design</text>
+</g>
+<g class="c" style="animation-delay:0.25s">
+ <rect x="187" y="210" width="184" height="64" rx="14" fill="#ffffff" stroke="#d8ddd4"/>
+ <rect x="187.2874622497587" y="226" width="4" height="32" rx="2" fill="#3aa0ff"/>
+ <text x="205.2874622497587" y="236" font-size="10.5" font-weight="600" fill="#68726d" letter-spacing="1.2">LOCATION</text>
+ <text x="205.2874622497587" y="257" font-size="13.5" font-weight="700" fill="#17221e">Phnom Penh, Cambodia</text>
+</g>
+<g class="c" style="animation-delay:0.35s">
+ <rect x="385" y="210" width="242" height="64" rx="14" fill="#ffffff" stroke="#d8ddd4"/>
+ <rect x="385.0448955446932" y="226" width="4" height="32" rx="2" fill="#ed5d37"/>
+ <text x="403.0448955446932" y="236" font-size="10.5" font-weight="600" fill="#68726d" letter-spacing="1.2">FOCUS</text>
+ <text x="403.0448955446932" y="257" font-size="13.5" font-weight="700" fill="#17221e">Prototyping · Design Systems</text>
+</g>
+<g class="c" style="animation-delay:0.45s">
+ <rect x="641" y="210" width="329" height="64" rx="14" fill="#ffffff" stroke="#d8ddd4"/>
+ <rect x="640.9281110868956" y="226" width="4" height="32" rx="2" fill="#4f8b45"/>
+ <text x="658.9281110868956" y="236" font-size="10.5" font-weight="600" fill="#68726d" letter-spacing="1.2">BUILDS WITH</text>
+ <text x="658.9281110868956" y="257" font-size="13.5" font-weight="700" fill="#17221e">React · Laravel · Flutter · TS · Node.js</text>
+</g>
+</svg>
